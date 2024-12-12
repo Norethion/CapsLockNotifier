@@ -13,9 +13,6 @@ CapsLockNotifier, CapsLock, NumLock ve ScrollLock tuşlarının durumunu izleyer
 3. Uygulamayı çalıştırın.
 4. İsteğe bağlı olarak Windows başlangıcında çalışacak şekilde ayarlayın.
 
-## Ekran Görüntüleri:
-![CapsLockNotifier Screenshot](screenshots/main_window.png)
-
 ## Yol Haritası:
 - Yeni özellikler eklemek
 - Hata düzeltmeleri ve performans iyileştirmeleri
