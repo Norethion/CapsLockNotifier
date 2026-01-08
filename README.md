@@ -1,22 +1,34 @@
 # CapsLockNotifier
 
-CapsLockNotifier, CapsLock, NumLock ve ScrollLock tuşlarının durumunu izleyerek kullanıcılara bildirim gösteren bir masaüstü uygulamasıdır. Bu uygulama, Windows başlangıcında çalışacak şekilde ayarlanabilir ve her değişen tuş durumunu bildirim olarak gösterir.
+A Windows system tray application that monitors CapsLock, NumLock, and ScrollLock keys and displays notifications when they change.
 
-## Gereksinimler:
-- Windows işletim sistemi
-- .NET Framework 4.5 veya üstü
+## Download
 
-## Kurulum:
-1. GitHub'dan projeyi indirin veya klonlayın:
-   `git clone https://github.com/<kullanıcı_adı>/CapsLockNotifier.git`
-2. Visual Studio ile projeyi açın.
-3. Uygulamayı çalıştırın.
-4. İsteğe bağlı olarak Windows başlangıcında çalışacak şekilde ayarlayın.
+[Download Latest Release](https://github.com/Norethion/CapsLockNotifier/releases/latest)
 
-## Yol Haritası:
-- Yeni özellikler eklemek
-- Hata düzeltmeleri ve performans iyileştirmeleri
-- Farklı dillerde destek
+## Features
 
-## Lisans:
-Bu proje MIT Lisansı altında lisanslanmıştır.
+- CapsLock, NumLock, ScrollLock notifications
+- Customizable themes (dark/light)
+- Custom background and text colors
+- Notification position settings (6 positions)
+- Adjustable notification duration
+- Turkish/English language support
+- Start with Windows option
+- Multi-monitor support
+
+## Requirements
+
+- Windows
+- .NET Framework 4.7.2 or higher
+
+## Usage
+
+1. Download `CapsLockChecker.exe` from the releases page
+2. Run the application
+3. Right-click the tray icon to access settings
+4. Left-click the tray icon to see current key states
+
+## License
+
+This project is licensed under the MIT License.
