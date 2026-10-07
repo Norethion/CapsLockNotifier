@@ -1,4 +1,5 @@
 # CapsLockNotifier
+**English** · [Türkçe](README.tr.md)
 
 A Windows system tray application that monitors CapsLock, NumLock, and ScrollLock keys and displays notifications when they change.
 
